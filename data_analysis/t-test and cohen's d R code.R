@@ -1,3 +1,8 @@
+# This code is a compliment to "Covert lie detection using keyboard dynamics".
+# Copyright (C) 2017  Merylin Monaro
+# See GNU General Public Licence v.3 for more details.
+#  NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.
+
 ##load data (load the .txt file named "Data for descriptive statistical analysis - 40 subjects")
 
 data<-read.delim(file.choose(),header=T)

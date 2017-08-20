@@ -1,0 +1,129 @@
+<!--
+ body         
+ {
+      width:1065px;
+      height:auto;          
+      margin:0 auto;
+      padding:0;		
+	}
+ #header
+ {
+      	/*background: url('images/bg_head.jpg') repeat-x;*/
+	width:1065px;
+	height:114px;
+	position:relative;
+	margin:0 auto;
+	top: 0px;
+	left: 0px;
+}
+		
+  #header div#logo1
+  {
+     float:left;
+     width:206px; 
+     height:114px;
+     }
+  #header div#logo2
+  {
+     float:right;
+     width:203px; 
+     height:114px;
+     }  
+  /**------------- Start of body style ----------------**/
+  
+
+  
+  #body div#content{
+        width:1065px;
+  	margin:30px auto;
+	overflow:hidden;
+	height:auto;
+	overflow:hidden;
+  }
+   #body div#hint{
+        font-family:Trebuchet MS;    
+        width:1065px;
+	margin:30px auto;
+	overflow:hidden;
+	height:auto;
+	text-align:center;
+	overflow:hidden;
+  }
+    #body div#question{
+    font-family:Trebuchet MS;    
+    width:1065px;
+	margin:30px auto;
+	overflow:hidden;
+	height:auto;
+	text-align:center;
+	overflow:hidden;
+  }
+    #body div#answer{
+    font-family:Trebuchet MS;    
+    width:1065px;
+	margin:30px auto;
+	overflow:hidden;;
+	height:auto;
+	text-align:center;
+	overflow:hidden;
+  }
+    #body div#button{
+    font-family:Trebuchet MS;    
+    width:1065px;
+	margin:30px auto;
+	overflow:hidden;
+	height:auto;
+	text-align:center;
+	overflow:hidden;
+  }
+  
+   /**------------- End of body style ----------------**/
+
+
+ 
+   /**--------------- Start of footer style ------------------**/
+   #footer{
+     background-color:#9B0014;
+	 background-image:none;
+	        width:1065px;
+	        margin:0 auto;
+
+   }   
+   #footer #footnote{
+	  background-color:#9B0014;
+   }
+   
+   #footer #footnote .sectiona{
+       width:665px;
+	   height:50px;
+	   text-align:right;
+	   line-height:50px;
+	   font-family:"Trebuchet MS";
+	   font-size:13px;
+	   float:left;
+		background-color:#9B0014;
+   }
+      #footer #footnote .sectionb{
+       width:400px;
+	   height:50px;
+	   float:left;
+	   line-height:50px;
+	   font-family:"Trebuchet MS";
+	   font-size:13px;
+		background-color:#9B0014;
+   }
+   #footer #footnote .sectiona a{
+      text-decoration:none;
+	  color:#000000;
+   }
+   #footer #footnote .sectiona a:hover{
+      color:#ffffff;	text-decoration:underline;
+	
+   }
+    /**--------------- End of footer style ------------------**/
+
+
+
+
+
+-->
